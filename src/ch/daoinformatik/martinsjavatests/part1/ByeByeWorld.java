@@ -10,7 +10,7 @@ package ch.daoinformatik.martinsjavatests.part1;
  */
 public class ByeByeWorld {
     public static void main(String attr[]){
-        System.err.println("Lets rock");
+        System.err.println("Lets rock vor ever");
     }
-    
+
 }
