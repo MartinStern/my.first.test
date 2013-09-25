@@ -14,6 +14,7 @@ public class HelloWorld {
         System.out.println("hello world");
         System.out.println("so what ? ");
         //dies kommt remote von meinem Lapi
-        System.out.print("mir reicht es jetzt");
+        System.out.println("mir reicht es jetzt");
+        System.err.println("das ist merkwürdig");
     }
 }
